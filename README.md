@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Huseyn 👋
 
-<!--
-**Lamakaka2007/Lamakaka2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+* 🎓 Computer Science / Software Engineering Student
+* 💡 Passionate about **C++**, **Algorithms & Data Structures**, and **Game Development**
+* 🏆 Active Competitive Programmer
+* 🛠️ Currently building C++ GDExtension modules and custom systems for Godot Engine
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Key Projects
+* 🏰 **[cpp-dungeon-generator](https://github.com/Lamakaka2007/cpp-dungeon-generator)** — 2D Procedural Dungeon Generator using C++ GDExtension for Godot 4.
+
+---
+
+### 📬 Connect with me
+* **Email:** huseynhesenov200709@gmail.com
+* **Codeforces:** https://codeforces.com/profile/Huseyn_Lamakaka
